@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643799253210",
+    "project_id": "worldtimeapp-43232",
+    "storage_bucket": "worldtimeapp-43232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643799253210:android:f383df2171ce11f308a5e3",
+        "android_client_info": {
+          "package_name": "com.example.world_time_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643799253210-amd5kpf8pa55u8csqdfq0qqcn1hu6dgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.world_time_app",
+            "certificate_hash": "193e209b0f27b55c67f126f8db1c9a3eb91be17a"
+          }
+        },
+        {
+          "client_id": "643799253210-ahgru5gt1mv253hanocshnbfce21mghb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLmOs2Ika3MC1zDZ2_GJdhsyemKsvw_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643799253210-ahgru5gt1mv253hanocshnbfce21mghb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
